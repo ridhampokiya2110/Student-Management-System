@@ -15,3 +15,4 @@ A robust, console-based Student Management System built using **Python**, **SQLi
 * **Language:** Python 3.x
 * **Database:** SQLite3 (Built-in standard library)
 * **Data Handling/Display:** Pandas
+
